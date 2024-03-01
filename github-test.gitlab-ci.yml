@@ -1,0 +1,2 @@
+github-test-job:
+    script: echo "FILE IN GitHub"
